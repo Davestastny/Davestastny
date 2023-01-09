@@ -9,8 +9,8 @@
 
 - 📫 How to reach me **davestastny@email.cz**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
