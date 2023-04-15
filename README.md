@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">Studying Programming and playing Football</h3>
+<h3 align="center">Studying Programming</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davestastny" alt="davestastny" /></a> </p>
-
-- 🔭 I’m currently working on **x**
 
 - 🌱 I’m currently learning **c#, js, php - laravel**
 
